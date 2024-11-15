@@ -44,11 +44,9 @@ A simple, responsive Task Manager application built using **React.js** and **Tai
    cd task-manager
 
 ### Install Dependencies
-    ```bash
     npm install
 
 ### Start the Development Server
-    ```bash
     npm start
 
 ### Open the app in your browser:
